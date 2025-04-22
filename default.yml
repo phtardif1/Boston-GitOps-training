@@ -5,7 +5,7 @@
 # - This file updates policies and queries that run on all hosts ("All teams"). 
 # - Remove "controls" and add this to your YAML files in teams/ instead.
 
-ppolicies:
+policies:
 queries:
 agent_options:
   path: ./lib/agent-options.yml
