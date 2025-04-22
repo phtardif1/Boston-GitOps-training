@@ -25,4 +25,3 @@ org_settings:
     org_name: Paul Revere and the Red Raiders
   secrets:
     - secret: "$FLEET_GLOBAL_ENROLL_SECRET"
-
