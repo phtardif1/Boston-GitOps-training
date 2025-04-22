@@ -9,7 +9,6 @@ policies:
 queries:
 agent_options:
   path: ./lib/agent-options.yml
-controls:
 org_settings:
   webhook_settings:
     activities_webhook:
